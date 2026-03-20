@@ -72,4 +72,4 @@ npm run build
 - Sign up, log in, log out, and session-backed profile state
 - Host-owned meeting creation with agenda, tags, capacity, recording, and waiting room options
 - Meeting detail panel and simulated join flow with room code generation
-- Django-served production build for the React frontend
+- Django-served production build for the React frontend and deployment 
